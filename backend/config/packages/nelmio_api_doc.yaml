@@ -1,0 +1,10 @@
+nelmio_api_doc:
+    documentation:
+        info:
+            title: LigaAC API
+            description: Symfony API
+            version: 1.0.0
+        paths: []
+    areas: # to filter documented areas
+        path_patterns:
+            - ^/(?!(_profiler|_wdt|_error|api/doc)|$)
