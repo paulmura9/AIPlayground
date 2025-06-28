@@ -1,1 +1,1 @@
-![AI_Playground](https://github.com/user-attachments/assets/6dcba840-2a94-44af-8fca-241fc9d45ee7)
+![AI_Playground](https://github.com/user-attachments/assets/37d362c1-5273-4696-b454-885eb14cd89e)
